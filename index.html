@@ -6,7 +6,7 @@ title: Brian Sewell
 {% if site.posts %}
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span class="date">{{ post.date | date_to_string.strftime(%m.%d.%y) }}</span> <a href="{{ post.url }}">{{ post.title }} &raquo;</a></li>
+    <li><span class="date">{{ post.date | date: "%m.%d.%y" }}</span> <a href="{{ post.url }}">{{ post.title }} &raquo;</a></li>
   {% endfor %}
 </ul>
 {% endif %}
