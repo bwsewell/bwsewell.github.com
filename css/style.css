@@ -282,3 +282,7 @@ footer {
   width:76px;
   display:inline-block;
 }
+
+#post img {
+  width:100%;
+}

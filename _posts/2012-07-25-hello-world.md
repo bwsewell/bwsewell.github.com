@@ -15,6 +15,8 @@ title: Hello World
 
 ### {{ page.title }}
 
+<img src="http://farm8.staticflickr.com/7110/7585068972_731c392fd3_b.jpg" alt="StatSheet Hackathon" />
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
