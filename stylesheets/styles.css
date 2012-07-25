@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#444;
   font-weight:300;
 }
 
@@ -21,6 +21,7 @@ h1, h2, h3 {
 }
 
 h1 {
+  color:#FF6600;
   font-size:28px;
 }
 
@@ -33,7 +34,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#FF6600;
   font-weight:400;
   text-decoration:none;
 }
@@ -201,9 +202,6 @@ footer {
   }
   
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
     margin:0 0 20px;
   }
   
@@ -252,4 +250,31 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+/* ADDED BY BRIAN */
+.posts {
+  margin:0 0 20px;
+  padding:0;
+  border-bottom:1px solid #E9E9E9;
+}
+
+.posts li {
+  list-style:none;
+  display:block;
+  border-top:1px solid #E9E9E9;
+  padding:6px 0;
+}
+
+.posts li .date {
+  color:#E9E9E9;
+  font-weight:bold;
+  font-size:0.7em;
+  background:#666;
+  padding:5px 0;
+  border-radius:3px;
+  margin-right:10px;
+  text-align:center;
+  width:76px;
+  display:inline-block;
 }
