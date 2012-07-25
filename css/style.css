@@ -25,6 +25,10 @@ h1 {
   font-size:28px;
 }
 
+h1 a {
+  font-weight:bold;
+}
+
 h2 {
   color:#393939;
 }
