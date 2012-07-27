@@ -7,15 +7,11 @@ image:
   alt:
   attribution:
 layout: post
-published: false
+published: true
 tags:
 -
-title: Hello World
+title: I'm right, you're wrong
 ---
-
-### {{ page.title }}
-
-<img src="http://farm8.staticflickr.com/7110/7585068972_731c392fd3_c.jpg" alt="StatSheet Hackathon" />
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
