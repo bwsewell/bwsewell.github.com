@@ -42,8 +42,8 @@ I've been trying to remember the last time Facebook improved my quality of life.
   <li>Listening to people complain about how you untagged yourself in some of their photos described above</li>
   <li>Being invited to "I lost my phone, give me your numbers" groups</li>
   <li>Changing my privacy settings 20 times a year</li>
-  <li>Seeing people talk crap about people they know can see their Facebook page</li>
-  <li>Seeing people talk crap about people they don't know can see their Facebook page</li>
+  <li>Seeing people talk crap about people whom they know can see their Facebook page</li>
+  <li>Seeing people talk crap about people whom they don't know can see their Facebook page</li>
   <li>Trying to decide what to make my profile picture</li>
   <li>Adjusting to a major interface overhaul</li>
   <li>The fat pile of dookie that is the Facebook App for iPhone</li>
