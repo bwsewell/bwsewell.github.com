@@ -13,7 +13,9 @@ tags:
 title: Why I'm leaving Facebook for good this time
 ---
 
-**September 11, 2005**.  About three weeks into college, I made the decision to join Facebook.  The only online accounts I think I've had longer than Facebook are maybe my GoDaddy account and AOL instant messenger (which doesn't really count).
+**September 11, 2005**...
+
+About three weeks into college, I made the decision to join Facebook.  The only online accounts I think I've had longer than Facebook are maybe my GoDaddy account and AOL instant messenger (which doesn't really count).
 
 I've found it interesting that as Facebook has evolved, so has my use for it.  Even though most of the mundane features they've added since the "mini feed" in 2006 haven't really changed what Facebook is and always has been.
 
@@ -33,27 +35,31 @@ So why am I choosing to leave Facebook?
 
 I've been trying to remember the last time Facebook improved my quality of life.  Not even drastically, but just something that Facebook did that made me say, "well, I'm sure glad I had Facebook".  I'm drawing a blank.  Twitter, on the other hand, has become my go-to social interation outlet.  I've been able to give feedback to companies, have quick conversations... the Belk Bowl even helped me get my tickets at will call in Charlotte after we forgot them at home all via Twitter.  But Facebook... nope.  Aside from finding out when my friends broke up with their girlfriends or boyfriends (which is useful information), there hasn't been anything there for me that has warranted me keeping my account.
 
-*Things I won't miss about Facebook:*
-* Getting one hundred emails about people wishing me a happy birthday
-* Having to untag myself in photos of food, animals, or just the embarrassing/incriminating photos one of my dumb friends tagged me in
-* Listening to people complain about how you untagged yourself in some of their photos described above.
-* Being invited to "I lost my phone, give me your numbers" groups
-* Changing my privacy settings 20 times a year
-* Seeing people talk crap about people they know can see their Facebook page
-* Seeing people talk crap about people they don't know can see their Facebook page
-* Trying to decide what to make my profile picture
-* Adjusting to a major interface overhaul
-* The fat pile of dookie that is the Facebook App for iPhone
+**Things I won't miss about Facebook:**
+<ul>
+  <li>Getting one hundred emails about people wishing me a happy birthday</li>
+  <li>Having to untag myself in photos of food, animals, or just the embarrassing/incriminating photos one of my dumb friends tagged me in</li>
+  <li>Listening to people complain about how you untagged yourself in some of their photos described above</li>
+  <li>Being invited to "I lost my phone, give me your numbers" groups</li>
+  <li>Changing my privacy settings 20 times a year</li>
+  <li>Seeing people talk crap about people they know can see their Facebook page</li>
+  <li>Seeing people talk crap about people they don't know can see their Facebook page</li>
+  <li>Trying to decide what to make my profile picture</li>
+  <li>Adjusting to a major interface overhaul</li>
+  <li>The fat pile of dookie that is the Facebook App for iPhone</li>
+</ul>
 
 I can't pretend like everything about Facebook was horrible, otherwise I wouldn't have been on it this long... so to be fair...
 
-*Things I will miss about Facebook:*
-* Being able to easily get in touch with people who's email address I don't have
-* Being able to "Login with Facebook" on sites that don't offer any alternative
-* Losing almost 7 years of my documented life story
-* Being reminded when it's a friend's birthday
-* Inviting people to events
-* Changing the site's language to "Pirate"
+**Things I will miss about Facebook:**
+<ul>
+  <li>Being able to easily get in touch with people who's email address I don't have</li>
+  <li>Being able to "Login with Facebook" on sites that don't offer any alternative</li>
+  <li>Losing almost 7 years of my documented life story</li>
+  <li>Being reminded when it's a friend's birthday</li>
+  <li>Inviting people to events</li>
+  <li>Changing the site's language to "Pirate"</li>
+</ul>
 
 So I'm about to embark on this historic journey.  I've deactived my account probably 6 times now... and hopefully this time will be the last.  Wish me luck.
 
