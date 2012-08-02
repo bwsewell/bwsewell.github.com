@@ -38,7 +38,7 @@ I've been trying to remember the last time Facebook improved my quality of life.
 **Things I won't miss about Facebook:**
 <ul>
   <li>Getting one hundred emails about people wishing me a happy birthday</li>
-  <li>Having to untag myself in photos of food, animals, or just the embarrassing/incriminating photos one of my dumb friends tagged me in</li>
+  <li>Having to untag myself in photos of food or just the embarrassing/incriminating photos one of my friends tagged me in</li>
   <li>Listening to people complain about how you untagged yourself in some of their photos described above</li>
   <li>Being invited to "I lost my phone, give me your numbers" groups</li>
   <li>Changing my privacy settings 20 times a year</li>
