@@ -287,3 +287,8 @@ footer {
   border-radius:5px;
   width:100%;
 }
+
+.twitter-follow-button {
+  float:right;
+  display:inline-block;
+}
