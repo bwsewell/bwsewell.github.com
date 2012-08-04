@@ -104,8 +104,8 @@ img {
 
 header {
   width:700px;
-  /*float:left;*/
-  /*position:fixed;*/
+  overflow:hidden;
+  clear:both;
 }
 
 header ul {
