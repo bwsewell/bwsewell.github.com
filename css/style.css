@@ -23,6 +23,8 @@ h1, h2, h3 {
 h1 {
   color:#FF6600;
   font-size:28px;
+  float:left;
+  display:inline-block;
 }
 
 h1 a {
