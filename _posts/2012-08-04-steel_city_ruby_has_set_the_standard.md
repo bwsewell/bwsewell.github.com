@@ -23,7 +23,7 @@ Aside from the amazing content of the conference, here are the things Steel City
 
 **Appeal to beginners**
 
-Going to a conference with a lot of people you think are smarter than you is daunting.  Getting there and realizing they don't 
+Going to a conference with a lot of people you think are smarter than you is daunting.  Getting there and realizing they don't care what your experience level is helps start conversations and allows those newcomers to feel welcome.
 
 **Be affordable**
 
