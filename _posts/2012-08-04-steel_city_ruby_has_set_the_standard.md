@@ -27,7 +27,7 @@ Going to a conference with a lot of people you think are smarter than you is dau
 
 **Be affordable**
 
-I'm reluctant to attend conference on my own dime, because they're too damn expensive, and I wouldn't be able to convince enough of my colleagues to do so as well.  That being said... Steel City Ruby was $50!  Oh, and after saving enough money for next year's conference as well as a chunk for tax purposes, they decided they made enough to cover their costs so they gave all 200 attendees a $5 bill when they walked in the door.  So it was actually a $45 ticket.  Try to beat that.
+I'm reluctant to attend conference on my own dime, because they're too damn expensive, and I wouldn't be able to convince enough of my colleagues to do so as well.  That being said... Steel City Ruby was $50!  Oh, and after saving money to help start next year's conference as well as a chunk for tax purposes, they decided to give all 200 attendees a $5 bill when they walked in the door.  So it was actually a $45 ticket.
 
 **Host it in an awesome city**
 
@@ -35,6 +35,6 @@ I am not a big city type of guy, but Pittsburgh has been a breath of fresh air (
 
 **Have the conference hotel 20 yards from the conference venue**
 
-The conference hotel is literally across the street.  You walk out the door, across the pedestrian crossing and you're there!
+The conference hotel is literally across the street.  You walk out the door, across the pedestrian crossing and you're there!  Makes getting to and from the events easy.  Of course, not every venue is going to offer that much convenience, but make sure attendee convenience is at the top of the list.
 
-I'm looking forward to attending next year.
+Overall, it was a great experience fostered by a great city, great people and great talks.  I'm certainly looking forward to attending next year.
