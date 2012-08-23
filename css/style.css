@@ -68,12 +68,8 @@ code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
   font-size:15px;
-  background-color:#F8F8F8;
-  border:1px solid #CCC;
-  overflow:auto;
+  background-color:#f8f8f8;
   padding:0 5px;
-  white-space:nowrap;
-  border-radius:3px;
 }
 
 pre {
@@ -82,6 +78,7 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
+  overflow-y: hidden;
 }
 
 table {
