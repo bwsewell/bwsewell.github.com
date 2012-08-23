@@ -67,7 +67,13 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
-  font-size:12px;
+  font-size:18px;
+  background-color:#F8F8F8;
+  border:1px solid #CCC;
+  overflow:auto;
+  padding:0 5px;
+  white-space:nowrap;
+  border-radius:3px;
 }
 
 pre {
