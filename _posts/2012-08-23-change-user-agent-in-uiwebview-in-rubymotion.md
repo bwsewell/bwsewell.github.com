@@ -17,9 +17,6 @@ As I've been going along learning how to do different things in RubyMotion, I fi
 
 I've typically added this line to the `app_delegate.rb` file inside `application(application, didFinishLaunchingWithOptions:launchOptions)`
 
-{% highlight ruby %}
-# Modify UserAgent
-NSUserDefaults.standardUserDefaults.registerDefaults({UserAgent: "my-custom-user-agent-name"})
-{% endhighlight %}
+<script src='http://pastie.org/4574454.js'></script>
 
 I've been using this trick to help hide certain html elements in a webView depending on whether or not the user is looking at a webpage in safari or within the app itself.
