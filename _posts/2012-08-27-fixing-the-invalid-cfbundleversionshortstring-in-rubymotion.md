@@ -28,3 +28,5 @@ Motion::Project::App.setup do |app|
   app.info_plist['CFBundleShortVersionString'] = '1.1'
 end
 {% endhighlight %}
+
+Also, as of June 1, 2012, RubyMotion admitted that this won't work unles the app.infoplist call to the very end of your `Rakefile` file.  Known issue, I'm sure they'll get that fixed.
