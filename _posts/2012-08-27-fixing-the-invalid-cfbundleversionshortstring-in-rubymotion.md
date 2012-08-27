@@ -29,4 +29,4 @@ Motion::Project::App.setup do |app|
 end
 {% endhighlight %}
 
-Also, as of June 1, 2012, RubyMotion admitted that this won't work unles the app.infoplist call to the very end of your `Rakefile` file.  Known issue, I'm sure they'll get that fixed.
+> **NOTE:** Also, as of June 1, 2012, RubyMotion informed us that the `app.info_plist` call will cause all following calls in your Rakefile to be ignored, so make sure you put this at the very end of your `Rakefile` file.  Known issue, I'm sure they'll get that fixed.
