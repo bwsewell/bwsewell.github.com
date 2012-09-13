@@ -17,6 +17,6 @@ After installing the GM release of xCode 4.5 and the iOS 6 SDK seed I wanted to 
 
 > Create a launch image that is 640 x 1136 pixels
 
-All you have to do is add a 4" launch image to the /resources folder of your project.  The file should be named `Default-568h@2x.png` or `Default-568h@2x~iphone` if it's a universal app.  Since the iPhone 5 has no non-retina counterpart, you obviously won't need the non-@2x version.
+All you have to do is add the 4" launch image to the `/resources` folder of your project.  The file should be named `Default-568h@2x.png` or `Default-568h@2x~iphone.png` if it's a universal app.  Since the iPhone 5 has no non-retina counterpart, you obviously won't need the non-@2x version.
 
 BOOM!
