@@ -3,7 +3,7 @@ layout: default
 ---
 <article id="post">
 <h2>{{ page.title }}</h3>
-<h3>{{ page.date | date_to_string }}</h3>
+<h3>{{ page.date | date: "%B %e, %Y" }}</h3>
 {{ content }}
 <div id="comments">
 {% include comments.html %}
