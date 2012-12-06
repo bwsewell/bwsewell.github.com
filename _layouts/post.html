@@ -2,7 +2,8 @@
 layout: default
 ---
 <article id="post">
-<h3>{{ page.title }}</h3>
+<h2>{{ page.title }}</h3>
+<h3>{{ post.date | date: "%m.%d.%y" }}</h3>
 {{ content }}
 <div id="comments">
 {% include comments.html %}

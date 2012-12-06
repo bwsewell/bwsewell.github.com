@@ -13,8 +13,6 @@ tags:
 title: Why I'm leaving Facebook for good this time
 ---
 
-**September 11, 2005**...
-
 About three weeks into college, I made the decision to join Facebook.  The only online accounts I think I've had longer than Facebook are maybe my GoDaddy account and AOL instant messenger (which doesn't really count).
 
 I've found it interesting that as Facebook has evolved, so has my use for it.  Even though most of the mundane features they've added since the "mini feed" in 2006 haven't really changed what Facebook is and always has been.
