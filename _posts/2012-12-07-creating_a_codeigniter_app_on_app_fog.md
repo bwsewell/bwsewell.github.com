@@ -23,9 +23,10 @@ PHP Fog offered a quick start for Codeigniter applications, however AppFog is cu
 
 # Create a PHP App
 
-![Create a PHP App](/img/appfog01.png)
+<a href="/img/appfog01.png"><img src="/img/appfog01.png" /></a>
 
 {% highlight php %}
+<?php
 // application/config/database.php
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = '';
@@ -42,9 +43,11 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
+?>
 {% endhighlight %}
 
 {% highlight php %}
+<?php
 // application/config/database.php
 $services_json = json_decode(getenv("VCAP_SERVICES"),true);
 $mysql_config = $services_json["mysql-5.1"][0]["credentials"];
@@ -65,9 +68,12 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
+?>
 {% endhighlight %}
 
 {% highlight php %}
+<?php
 // application/config/autoload.php
 $autoload['libraries'] = array('database');
+?>
 {% endhighlight %}
