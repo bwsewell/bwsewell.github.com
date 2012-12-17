@@ -45,20 +45,20 @@ AppFog offers a handy command line tool to create, update and manage your hosted
 
 The installation instructions for the AppFog command line tool is pretty [straight-forward](https://docs.appfog.com/getting-started/af-cli).  All you have to do is install the af gem.  This gem does require that you have Ruby 1.8.7 or newer installed on your machine.
 
-{% highlight bash %}
+{% highlight shell %}
 $ gem install af
 {% endhighlight %}
 
 ## 3. Create a local version of your app
 
-{% highlight bash %}
+{% highlight shell %}
 $ mkdir ci-test-app
 $ cd ci-test-app
 {% endhighlight %}
 
 [Download a fresh Codeigniter install](http://ellislab.com/codeigniter/download) into the folder containing your app.
 
-{% highlight bash %}
+{% highlight shell %}
 $ ls -l
 $ total 16
 $ drwxr-xr-x   5 user  staff   170B Dec 17 13:05 .
@@ -72,14 +72,16 @@ $ drwxr-xr-x@ 10 user  staff   340B Dec 17 08:18 system
 
 Now that you have a clean Codeigniter install on your machine, it's time to upload it to your AppFog app using the af tool.
 
-{% highlight bash %}
+Run the following command inside your app folder on your local machine:
+
+{% highlight shell %}
 $ af update ci-test-app
 {% endhighlight %}
 Where **ci-test-app** is the name of your app.
 
 You should receive feedback that looks like this:
 
-{% highlight bash %}
+{% highlight shell %}
 $ af update ci-test-app
 $ Uploading Application:
 $   Checking for available resources: OK
@@ -107,6 +109,8 @@ Hopefully you'll see this...
 I'm going to use MySQL for this tutorial... if you prefer Mongo, PostreSQL or Redis, the following steps will be relatively similar.
 
 On your app's dashboard, click on the **Services** tab on the side.  From here, you can create your MySQL database.
+
+<a href="/img/appfog05.png"><img src="/img/appfog05.png" /></a>
 
 Select **MySQL** from the services list and give it a name.  I named mine "ci-test-app-mysql".
 
