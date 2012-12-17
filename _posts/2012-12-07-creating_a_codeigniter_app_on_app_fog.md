@@ -45,20 +45,20 @@ AppFog offers a handy command line tool to create, update and manage your hosted
 
 The installation instructions for the AppFog command line tool is pretty [straight-forward](https://docs.appfog.com/getting-started/af-cli).  All you have to do is install the af gem.  This gem does require that you have Ruby 1.8.7 or newer installed on your machine.
 
-{% highlight Bash %}
+{% highlight bash %}
 $ gem install af
 {% endhighlight %}
 
 ## 3. Create a local version of your app
 
-{% highlight Bash %}
+{% highlight bash %}
 $ mkdir ci-test-app
 $ cd ci-test-app
 {% endhighlight %}
 
 [Download a fresh Codeigniter install](http://ellislab.com/codeigniter/download) into the folder containing your app.
 
-{% highlight Bash %}
+{% highlight bash %}
 $ ls -l
 $ total 16
 $ drwxr-xr-x   5 user  staff   170B Dec 17 13:05 .
@@ -72,14 +72,14 @@ $ drwxr-xr-x@ 10 user  staff   340B Dec 17 08:18 system
 
 Now that you have a clean Codeigniter install on your machine, it's time to upload it to your AppFog app using the af tool.
 
-{% highlight Bash %}
+{% highlight bash %}
 $ af update ci-test-app
 {% endhighlight %}
 Where **ci-test-app** is the name of your app.
 
 You should receive feedback that looks like this:
 
-{% highlight Bash %}
+{% highlight bash %}
 $ af update ci-test-app
 $ Uploading Application:
 $   Checking for available resources: OK
