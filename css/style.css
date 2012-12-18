@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:50px;
+  padding:0 50px;
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#444;
   font-weight:300;
@@ -22,7 +22,7 @@ h1, h2, h3 {
 
 h1 {
   color:#FF6600;
-  font-size:28px;
+  font-size:36px;
   float:left;
   display:inline-block;
 }
@@ -56,6 +56,13 @@ a small {
   color:#777;
   margin-top:-0.6em;
   display:block;
+}
+
+h1#logo {
+  background:url('../img/logo.gif') no-repeat 0 0;
+  width:403px;
+  height:50px;
+  text-indent:-20000px;
 }
 
 .wrapper {
@@ -113,6 +120,8 @@ img {
 
 header {
   width:700px;
+  height:50px;
+  line-height:50px;
   overflow:hidden;
   clear:both;
 }

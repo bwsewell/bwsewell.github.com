@@ -31,7 +31,7 @@ Once logged in you will be prompted to create your first app.  Select the **PHP*
 
 The next step is to select your prefferred infrastructure.  I will be using **AWS US East** for purposes of this tutorial.
 
-Give your app a name and click **Create App**
+Give your app a name and click **Create App**.
 
 <a href="/img/appfog02.png"><img src="/img/appfog02.png" /></a>
 
@@ -57,16 +57,6 @@ $ cd ci-test-app
 {% endhighlight %}
 
 [Download a fresh Codeigniter install](http://ellislab.com/codeigniter/download) into the folder containing your app.
-
-{% highlight console %}
-$ ls -l
-$ total 16
-$ drwxr-xr-x   5 user  staff   170B Dec 17 13:05 .
-$ drwxr-xr-x  97 user  staff   3.2K Dec 17 13:05 ..
-$ drwxr-xr-x@ 17 user  staff   578B Dec 17 08:18 application
-$ -rw-r--r--@  1 user  staff   6.2K Dec 17 08:18 index.php
-$ drwxr-xr-x@ 10 user  staff   340B Dec 17 08:18 system
-{% endhighlight %}
 
 ## 4. Upload your Codeiginiter install to AppFog
 
