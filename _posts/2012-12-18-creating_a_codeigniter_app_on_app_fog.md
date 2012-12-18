@@ -7,7 +7,7 @@ image:
   alt:
   attribution:
 layout: post
-published: false
+published: true
 tags:
 -
 title: Creating a Codeigniter App on AppFog
@@ -182,3 +182,37 @@ $autoload['libraries'] = array('database');
 Go back to your app dashboard and visit your live site.  If you still see the same default CI page, then you've successfully connected your MySQL database!
 
 ## 7. Setup phpMyAdmin
+
+AppFog treats phpMyAdmin as it's own app, similar to how it treats your Codeigniter Install.  Aside from tunnelling into your MySQL database, phpMyAdmin will be your best way to interface with your database for now.
+
+Goto your dashboard and click on **Create App** in the top navigation
+
+Select phpMyAdmin from the application list
+
+<a href="/img/appfog11.png"><img src="/img/appfog11.png" /></a>
+
+Same as you did for your PHP app, select your preferred infrastructure... once again I'm using AWS US East.  Then name your phpMyAdmin install... I just named mine "ci-test-app-mysql".
+
+<a href="/img/appfog12.png"><img src="/img/appfog12.png" /></a>
+
+Once your app is created, from your dashboard click on **Services** on the side.  You will see your MySQL database you created earlier.  Click the **Bind** button to bind this service to your phpMyAdmin installation.
+
+<a href="/img/appfog13.png"><img src="/img/appfog13.png" /></a>
+
+You'll also need to add a password to your phpMyAdmin app. Click on the **Env Variables** tab on the left. Create an environment variable called `PMA_PASSWORD` and set it to whatever password you want.
+
+You can set the value to whatever you want as your phpMyAdmin password. Your default phpMyAdmin username is the email address your AppFog account is under, but you can optionally override that to something of your choice by creating another environment variable called `PMA_USERNAME`.
+
+As an example I've set both my username and password to "root".  I do not recommend using these values at all by the way.
+
+<a href="/img/appfog14.png"><img src="/img/appfog14.png" /></a>
+
+So now you will be able to login to your phpMyAdmin installation to manage your database by clicking on the **Visit Live Site** link on your phpMyAdmin app dashboard.
+
+<a href="/img/appfog15.png"><img src="/img/appfog15.png" /></a>
+
+<a href="/img/appfog16.png"><img src="/img/appfog16.png" /></a>
+
+## You're all set!
+
+Enjoy using AppFog to host your Codeigniter app.
