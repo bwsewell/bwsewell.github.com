@@ -38,28 +38,32 @@ Here's what my model looked like before:
 And after putting it within a `Models` namespace:
 
 {% highlight php %}
-// application/models/filter.php
+<?php
+  // application/models/filter.php
 
-namespace Models;
+  namespace Models;
 
-class Filter extends \Eloquent {
-  // model stuff goes here
-}
+  class Filter extends \Eloquent {
+    // model stuff goes here
+  }
+?>
 {% endhighlight %}
 
 In order to make this work properly, you'll also have to add some code to your `application/start.php` file:
 
 {% highlight php %}
-// application/start.php
+<?php
+  // application/start.php
 
-Autoloader::directories(array(
-  // path('app').'models',   <-- this line needs to be commented out
-  path('app').'libraries',
-));
+  Autoloader::directories(array(
+    // path('app').'models',   <-- this line needs to be commented out
+    path('app').'libraries',
+  ));
 
-Autoloader::namespaces(array(
-    'Models' => __DIR__ . DS . 'models',
-));
+  Autoloader::namespaces(array(
+      'Models' => __DIR__ . DS . 'models',
+  ));
+?>
 {% endhighlight %}
 
 You'll notive I commented out `path('app').'models`.  This is to prevent Laravel from auto-loading my models without the  `Models` namespace... I know confusing right?
@@ -67,15 +71,19 @@ You'll notive I commented out `path('app').'models`.  This is to prevent Laravel
 So now if I try to utilize this model somewhere inside a Route, Controller or View, I need to access it like this:
 
 {% highlight php %}
+<?php
   // Get all filter objects
   $filters = Models\Filter::all();
+?>
 {% endhighlight %}
 
 Instead of this:
 
 {% highlight php %}
+<?php
   // Get all filter objects
   $filters = Filter::all();
+?>
 {% endhighlight %}
 
 I know that seems cumbersome, but you'll get used to it.
@@ -85,24 +93,28 @@ I know that seems cumbersome, but you'll get used to it.
 Let's say I have another model, "Category" that has many Filters.  Here's how we set that relationship up inside the Models namespace:
 
 {% highlight php %}
-// application/models/category.php
+<?php
+  // application/models/category.php
 
-namespace Models;
+  namespace Models;
 
-class Category extends \Eloquent {
+  class Category extends \Eloquent {
 
-  public function filters() {
-    return $this->has_many('Models\Filter');
+    public function filters() {
+      return $this->has_many('Models\Filter');
+    }
+
   }
-
-}
+?>
 {% endhighlight %}
 
 Now this will still work the way it's supposed to:
 
 {% highlight php %}
-$category = Models\Category::find(1);
-$category_filters = $category->filters();
+<?php
+  $category = Models\Category::find(1);
+  $category_filters = $category->filters();
+?>
 {% endhighlight %}
 
 ## Referencing namespaced models inside of models
@@ -119,16 +131,18 @@ active - TINYINT
 Let's write a function inside our Filter model to return all filters with 'active' set to 1
 
 {% highlight php %}
-// application/models/filter.php
+<?php
+  // application/models/filter.php
 
-class Filter extends Eloquent {
+  class Filter extends Eloquent {
 
-  /* Returns active Filters */
-  public static function active() {
-    return Filter::where_active(1)->order_by('name','asc')->get();
+    /* Returns active Filters */
+    public static function active() {
+      return Filter::where_active(1)->order_by('name','asc')->get();
+    }
+
   }
-
-}
+?>
 {% endhighlight %}
 
 Notice we did not prefix Filter with `Models\`.  The reason we don't have to is because we are already inside the Models namespace.
