@@ -134,7 +134,9 @@ Let's write a function inside our Filter model to return all filters with 'activ
 <?php
   // application/models/filter.php
 
-  class Filter extends Eloquent {
+  namespace Models;
+
+  class Filter extends \Eloquent {
 
     /* Returns active Filters */
     public static function active() {
