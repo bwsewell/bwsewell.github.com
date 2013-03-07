@@ -15,7 +15,7 @@ title: Namespacing Models in Laravel 3
 
 Let me preface this post by saying I'm new to Laravel and I'm not an expert on the topic of namespacing.  It's a relatively new concept for me.  I've been working with PHP for a long time, but have been using Ruby for the past year and a half for my job, so I'm somewhat familiar with it.
 
-I've been writing an app using [Laravel|http://laravel.com] recently.  I was an avid user of [Codeigniter|http://codeigniter.com] before, but I have since learned to enjoy Laravel much more.
+I've been writing an app using [Laravel](http://laravel.com) recently.  I was an avid user of [Codeigniter](http://codeigniter.com) before, but I have since learned to enjoy Laravel much more.
 
 ## Resolving Model Name Conflicts with Laravel Classes
 
