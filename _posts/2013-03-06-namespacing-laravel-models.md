@@ -124,8 +124,8 @@ Let's say we want to write a function to get me all the Filters that are flagged
 **filters:**
 {% highlight console %}
 id     - INTEGER
-name   - VARCHAR
-active - TINYINT
+ name   - VARCHAR
+ active - TINYINT
 {% endhighlight %}
 
 Let's write a function inside our Filter model to return all filters with 'active' set to 1
