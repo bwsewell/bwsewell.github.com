@@ -108,7 +108,7 @@ $category_filters = $category->filters();
 Let's say we want to write a function to get me all the Filters that are flagged as 'active' in the database.  I'm just pretending we have a schema set up like this:
 
 **filters:**
-{% highlight %}
+{% highlight console %}
 id     - INTEGER
 name   - VARCHAR
 active - TINYINT
