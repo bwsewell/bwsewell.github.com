@@ -26,11 +26,13 @@ After some helpful peeps over on the Laravel IRC channel pointed me in the right
 Here's what my model looked like before:
 
 {% highlight php %}
-// application/models/filter.php
+<?php
+  // application/models/filter.php
 
-class Filter extends Eloquent {
-  // model stuff goes here
-}
+  class Filter extends Eloquent {
+    // model stuff goes here
+  }
+?>
 {% endhighlight %}
 
 And after putting it within a `Models` namespace:
