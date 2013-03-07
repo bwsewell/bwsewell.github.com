@@ -35,7 +35,13 @@ Here's what my model looked like before:
 ?>
 {% endhighlight %}
 
-And after putting it within a `Models` namespace:
+Whenever I attempted to use this model, I'd receive this error from Laravel:
+
+`Call to undefined method Laravel\Routing\Filter::connection()`
+
+This is because it's assuming my reference to `Filter` is in the `Laravel\Routing` namespace.
+
+In order to make this model work, I need to put it within a `Models` namespace:
 
 {% highlight php %}
 <?php
