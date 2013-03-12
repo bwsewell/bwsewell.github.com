@@ -15,7 +15,7 @@ title: Finding a Viable Replacement for the Password
 
 After reading [@mat](http://twitter.com/mat)'s article in [WIRED Magazine](http://www.wired.com/gadgetlab/2012/11/ff-mat-honan-password-hacker/all/) about why the password is no longer a strong enough security blanket for all of our digital lives, I revisited the notion of a viable replacement for the password.  Mat brings up a multitude of valid arguments why the password is old technology that just doesn't seem to die.
 
-We've seemed to advance in every form of security except this.  Homes have gone from having a barking Rottweiler on your front porch to owning advanced systems to protect your home form burglary.  Cars have RFID ignition immobilizers.  Ok, so the whole key and lock thing still has obvious issues.  It boils down to the fact that the system is only as secure as it's weakest user.  If you still leave your spare key under your doormat, you're part of the problem.  Robbers know where to look for these things... so do hackers.
+We've seemed to advance in every form of security except this.  Homes have gone from having a barking Rottweiler on your front porch to owning advanced systems to protect your home from burglary.  Cars have RFID ignition immobilizers.  Ok, so the whole key and lock thing still has obvious issues.  It boils down to the fact that the system is only as secure as its weakest user.  If you still leave your spare key under your doormat, you're part of the problem.  Robbers know where to look for these things... so do hackers.
 
 ## What's Wrong With My Passwords?
 
