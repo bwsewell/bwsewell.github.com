@@ -306,6 +306,11 @@ footer {
   width:100%;
 }
 
+#post h4 {
+  font-size:24px;
+  font-weight:normal;
+}
+
 .twitter-follow-button {
   float:right;
   display:inline-block;

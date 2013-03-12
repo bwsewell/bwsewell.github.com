@@ -1,6 +1,6 @@
 ---
 author: Brian Sewell
-excerpt:
+excerpt: I've only been to two conferences.  I attended [EECI](http://eeciconf.com/) last October in Brooklyn, NY and just finished up the inaugural [Steel City Ruby conference](http://www.steelcityrubyconf.org) in Pittsburgh.  I haven't had any opportunities to attend events like these.  My last job paid for me to attend EECI, however my current position at [Automated Insights](http://automatedinsights.com) is a startup and I feel bad about asking them to pay big bucks to send me to a professional development event when their top priority is cutting paychecks and providing health care.
 image:
   url:
   title:
@@ -14,8 +14,6 @@ title: Steel City Ruby has set the standard
 ---
 
 <img src="http://farm9.staticflickr.com/8283/7711890546_9d93d1d3e9_o.jpg" alt="Steel City Ruby Conference 2012 Stickers" />
-
-I've only been to two conferences.  I attended [EECI](http://eeciconf.com/) last October in Brooklyn, NY and just finished up the inaugural [Steel City Ruby conference](http://www.steelcityrubyconf.org) in Pittsburgh.  I haven't had any opportunities to attend events like these.  My last job paid for me to attend EECI, however my current position at [Automated Insights](http://automatedinsights.com) is a startup and I feel bad about asking them to pay big bucks to send me to a professional development event when their top priority is cutting paychecks and providing health care.
 
 I'm new to Ruby. I've had to learn it for my new job and I've been a PHP guy for 5 years, but have mostly focused on front-end work.  After attending this conference, I've been introduced to a large portion of the Ruby community... and boy are they awesome.  They're very passionate about their work, their field, and their colleagues.  The talks have been absolutely amazing, and the structure of the event has been spot-on.  The first day got kicked off with a talk from [Corey Haines](http://twitter.com/#!/coreyhaines) on *Getting the most out of a conference*.  Setting the vibe immediately for a kick-ass two days in the Steel City.
 
