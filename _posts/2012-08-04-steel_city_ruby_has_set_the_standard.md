@@ -1,6 +1,6 @@
 ---
 author: Brian Sewell
-excerpt: Testing [hello](google.com)
+excerpt:
 image:
   url:
   title:
