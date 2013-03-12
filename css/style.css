@@ -5,7 +5,7 @@ body {
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#444;
   font-weight:400;
-  background:#EFEFEF;
+  background:#FFF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,8 +56,9 @@ a small {
   display:block;
 }
 
-h1#logo {
+header h1 {
   font-size:60px;
+  letter-spacing:-1px;
   font-weight:900;
   text-align:center;
   color:#494949;
@@ -117,12 +118,13 @@ img {
 }
 
 header {
-  width:700px;
-  height:50px;
+  width:100%;
   line-height:50px;
   overflow:hidden;
   clear:both;
+  text-align:center;
   margin-bottom:20px;
+  border-bottom:1px solid #EFEFEF;
 }
 
 header ul {
