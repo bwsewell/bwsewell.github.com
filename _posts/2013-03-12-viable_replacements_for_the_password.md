@@ -7,7 +7,7 @@ image:
   alt:
   attribution:
 layout: post
-published: false
+published: true
 tags:
 -
 title: Finding a Viable Replacement for the Password
@@ -36,7 +36,7 @@ I do feel app developers need to start taking greater responsibility in how they
 - Require passwords to be longer than 8 characters
 - Require passwords to include at least 2 numbers
 - Require passwords to include at least 1 non-alphanumeric value
-- Don't allow passwords to be the same as the username
+- Don't allow passwords to be the same as the username or email address
 - Don't allow passwords to be any of the ones on [this list](http://www.zdnet.com/blog/security/25-most-used-passwords-revealed-is-yours-one-of-them/12427)
 - Require users to reset passwords once a year
 - Allow users to be notified every time someone logs in to their account (via text, email, etc) and have the ability to disable their account to prevent any fraudulent activity
@@ -46,8 +46,10 @@ I do feel app developers need to start taking greater responsibility in how they
 
 ## Two Factor Authentication is a Band-Aid
 
-Facebook, Google and Dropbox have all implemented a form of two-step, which requires a user to enter a temporary code sent to their mobile phone.
+Facebook, Google and Dropbox have all implemented a form of two-step, which requires a user to enter a temporary code sent to their mobile phone after entering their password.  This added layer of protection definitely helps, but is not a long-term solution.  These text messages could still be intercepted if someone really wanted them badly enough, and then of course... what happens if you lose your phone?
 
 ## So Now What?
 
-Biometric authentication may be one of the better solutions, but it doesn't seem feasible just yet.  [Physical keys](http://www.technologyreview.com/view/510106/googles-alternative-to-the-password/)?  [Jewelry](http://www.technologyreview.com/news/512051/google-wants-to-replace-all-your-passwords-with-a-ring/#.UT8OP_Bu8_A.reddit)?  
+Biometric authentication may be one of the better solutions, but it doesn't seem feasible just yet.  [Physical keys](http://www.technologyreview.com/view/510106/googles-alternative-to-the-password/)?  [Jewelry](http://www.technologyreview.com/news/512051/google-wants-to-replace-all-your-passwords-with-a-ring/#.UT8OP_Bu8_A.reddit)?  We need to find a viable alternative that can be widely adopted.
+
+This should keep us up at night.
