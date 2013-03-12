@@ -4,7 +4,7 @@ layout: default
 <article id="post">
 <h1>{{ page.title }}</h1>
 <h3>{{ page.date | date: "%B %e, %Y" }}</h3>
-<h4>{{ page.excerpt }}</h4>
+<h4>{{ page.excerpt | markdownify }}</h4>
 {{ content }}
 <div id="comments">
 {% include comments.html %}
