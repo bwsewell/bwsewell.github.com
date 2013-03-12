@@ -1,10 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url("http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic");
 
 body {
   padding:50px;
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#444;
-  font-weight:300;
+  font-weight:400;
+  background:#EFEFEF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,14 +57,14 @@ a small {
 }
 
 h1#logo {
-  background:url('../img/logo.gif') no-repeat 0 0;
-  width:403px;
-  height:50px;
-  text-indent:-20000px;
+  font-size:60px;
+  font-weight:900;
+  text-align:center;
+  color:#494949;
 }
 
 .wrapper {
-  width:700px;
+  width:650px;
   margin:0 auto;
 }
 
@@ -309,9 +310,4 @@ footer {
 #post h4 {
   font-size:24px;
   font-weight:normal;
-}
-
-.twitter-follow-button {
-  float:right;
-  display:inline-block;
 }
