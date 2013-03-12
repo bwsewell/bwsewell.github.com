@@ -42,7 +42,7 @@ I do feel app developers need to start taking greater responsibility in how they
 - Allow users to be notified every time someone logs in to their account (via text, email, etc) and have the ability to disable their account to prevent any fraudulent activity
 - NEVER SEND PASSWORD RESET EMAILS WITH THE NEW PASSWORD INSIDE
 - Use SSL on all registration/login forms
-- [Salt](http://en.wikipedia.org/wiki/Salt_(cryptography)) and hash passwords
+- Salt and hash passwords
 
 ## Two Factor Authentication is a Band-Aid
 
