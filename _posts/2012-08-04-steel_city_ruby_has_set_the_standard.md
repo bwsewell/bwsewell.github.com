@@ -1,7 +1,7 @@
 ---
 author: Brian Sewell
 excerpt:
-I've only been to two conferences.  I attended [EECI](http://eeciconf.com/) last October in Brooklyn, NY and just finished up the inaugural [Steel City Ruby conference](http://www.steelcityrubyconf.org) in Pittsburgh.  I haven't had any opportunities to attend events like these.  My last job paid for me to attend EECI, however my current position at [Automated Insights](http://automatedinsights.com) is a startup and I feel bad about asking them to pay big bucks to send me to a professional development event when their top priority is cutting paychecks and providing health care.
+  I've only been to two conferences.  I attended [EECI](http://eeciconf.com/) last October in Brooklyn, NY and just finished up the inaugural [Steel City Ruby conference](http://www.steelcityrubyconf.org) in Pittsburgh.  I haven't had any opportunities to attend events like these.  My last job paid for me to attend EECI, however my current position at [Automated Insights](http://automatedinsights.com) is a startup and I feel bad about asking them to pay big bucks to send me to a professional development event when their top priority is cutting paychecks and providing health care.
 image:
   url:
   title:
