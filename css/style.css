@@ -281,21 +281,19 @@ footer {
 .posts {
   margin:0 0 20px;
   padding:0;
-  border-bottom:1px solid #E9E9E9;
 }
 
 .posts li {
   list-style:none;
   display:block;
-  border-top:1px solid #E9E9E9;
   padding:6px 0;
 }
 
 .posts li .date {
-  color:#E9E9E9;
+  color:#666;
   font-weight:bold;
   font-size:0.7em;
-  background:#666;
+  background:#E9E9E9;
   padding:5px 0;
   border-radius:3px;
   margin-right:10px;
