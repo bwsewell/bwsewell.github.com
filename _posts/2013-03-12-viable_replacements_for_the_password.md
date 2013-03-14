@@ -19,9 +19,9 @@ We've seemed to advance in every form of security except this.  Homes have gone 
 
 ## What's Wrong With My Passwords?
 
-The same thing that's wrong with you're hide-a-key rock outside your house.  I can't even count on 2 hands the number of accounts I sign up for every day.  Some new beta service here, another app there.  The common practice nowadays is to have your email address double as your username.  That's a pretty easy thing to come by now.  Anyone you've ever sent an email to already have that piece of information.  So your password?  You probably use the same password for dozens of services.  If a hacker gets his hands on your email address and password, there's good change they'll be able to access numerous accounts with those credentials.
+The same thing that's wrong with you're hide-a-key rock outside your house.  I can't even count on 2 hands the number of accounts I sign up for every day.  Some new beta service here, another app there.  The common practice nowadays is to have your email address double as your username.  That's a pretty easy thing to come by now.  Anyone you've ever sent an email to already has that piece of information.  So your password?  You probably use the same password for dozens of services.  If a hacker gets his hands on your email address and password, there's good chance they'll be able to access numerous accounts with those credentials.
 
-Creating a different password for every single service isn't feasible to the lay user unless you're using a service like 1Password, but even that service boils down to knowing your master password.
+Creating a different password for every single service isn't feasible for the lay user unless you're using a service like 1Password, but even that service boils down to knowing your master password.
 
 This is a bad analogy, but having the same username and password for multiple services would be like having the key to your home also being the one that opens your car, safe deposit box and parent's house.  If you have all those keys on the same key ring, it's practically the same thing, but you get my drift.
 
