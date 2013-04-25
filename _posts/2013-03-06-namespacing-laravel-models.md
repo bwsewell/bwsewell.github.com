@@ -72,7 +72,7 @@ In order to make this work properly, you'll also have to add some code to your `
 ?>
 {% endhighlight %}
 
-You'll notive I commented out `path('app').'models`.  This is to prevent Laravel from auto-loading my models without the  `Models` namespace... I know confusing right?
+You'll notice I commented out `path('app').'models`.  This is to prevent Laravel from auto-loading my models without the  `Models` namespace... I know confusing right?
 
 So now if I try to utilize this model somewhere inside a Route, Controller or View, I need to access it like this:
 
