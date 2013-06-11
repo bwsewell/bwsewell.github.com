@@ -75,7 +75,7 @@ The new card view of your apps is nice.  It's almost exactly the same as Palm's 
 I do like the new photos app.  It still tries a bit to hard to force you into a method of organization they think you need, but it has helped quickly find photos during certain periods of time.  I can overlook this change right now.
 
 **In Closing**
-When Tim Cook was interviewed back in December about the [letting go of Scott Forstall and John Browett])(http://www.businessinsider.com/tim-cook-why-i-fired-scott-forstall-2012-12#ixzz2VwQdcdfU), he said:
+When Tim Cook was interviewed back in December about the [letting go of Scott Forstall and John Browett](http://www.businessinsider.com/tim-cook-why-i-fired-scott-forstall-2012-12#ixzz2VwQdcdfU), he said:
 
 > We admit when we’re wrong and have the courage to change.
 
