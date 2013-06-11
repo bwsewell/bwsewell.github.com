@@ -115,10 +115,6 @@ th {
   color:#444;
 }
 
-img {
-  max-width:100%;
-}
-
 header {
   width:100%;
   line-height:50px;
@@ -306,7 +302,7 @@ footer {
 
 #post img {
   border-radius:5px;
-  width:100%;
+  display:block;
 }
 
 #post h4 {
