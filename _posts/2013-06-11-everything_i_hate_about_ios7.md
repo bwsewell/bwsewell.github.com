@@ -41,17 +41,17 @@ Jony Ive has done a terrific job over the years with hardware design.  He's resp
 The new "Swipe to Answer" button is nothing more than a green block.
 
 **Lock Screen**  
-<img class="c" src="/img/ios7/lock_screen.png" />
+<img class="c" width="320" src="/img/ios7/lock_screen.png" />
 It starts with something as central as the lock screen.  Sure, users will learn that nothing has really changed, but please give me a good reason the button and slider needed to go. This may be an easy thing to overlook for iOS users who are used to this process, but people coming to iOS from other platforms are going to be wondering how to unlock their phone for at least a few seconds. Don't make the user think.
 
 I handed my phone to a friend, because he wanted to see iOS 7, and he swiped up and down before attempting the traditional swipe right.  I am guilty of the same idiocy.  But am I really the idiot?
 
 **Spotlight**  
-<img class="c" src="/img/ios7/spotlight.png" />
+<img class="c" width="320" src="/img/ios7/spotlight.png" />
 Spotlight was cleverly hidden.  Instead of being the farthest left home screen, you now just have to pull down on the home screen (not at the very top, that's notification center) to reveal the spotlight search.  My question is "why"?  Did so many people complain about how they had to tap the home button and swipe right to access the spotlight?  Probably not.  Changing things for the sake of changing them is a terrible approach.  It seems like Ive and his team set out to create problems to solve rather than improving on what was already there.
 
 **Control Center**  
-<img class="c" src="/img/ios7/control_center.png" />
+<img class="c" width="320" src="/img/ios7/control_center.png" />
 What the hell is wrong with text labels?  Not everyone is going to know what these icons mean, no matter how simple you make them.  The only way the user can find out is by tapping on them and opening the clock app, calculator app, or camera.
 
 The bottom swipe gesture to display the control center interferes with a few apps functionality… namely the Google app where the "now" cards are shown by swiping up from the bottom.
@@ -67,11 +67,11 @@ The camera app is the only built in app that features the all caps typography.
 As if all the UI changes weren't enough to anger users and developers alike, they've managed to resize the icons on the home screen and increase their border radius.  On a retina display, the icons are 114 pixels with about a 14 pixel radius.  The new icons are 120 pixels with a 24 pixel radius.  More work for designers.
 
 **Multitasking**  
-<img class="c" src="/img/ios7/multitasking.png" />
+<img class="c" width="320" src="/img/ios7/multitasking.png" />
 The new card view of your apps is nice.  It's almost exactly the same as Palm's WebOS implementation back in the day, but an improvement nonetheless.
 
 **Photos**  
-<img class="c" src="/img/ios7/photos.png" />
+<img class="c" width="320" src="/img/ios7/photos.png" />
 I do like the new photos app.  It still tries a bit to hard to force you into a method of organization they think you need, but it has helped quickly find photos during certain periods of time.  I can overlook this change right now.
 
 **In Closing**
