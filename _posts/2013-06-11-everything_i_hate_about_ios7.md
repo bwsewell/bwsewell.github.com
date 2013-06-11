@@ -10,7 +10,7 @@ layout: post
 published: true
 tags:
 -
-title: Everything I hate (and don't hate) about iOS 7
+title: Everything I hate (and don't hate) about iOS&nbsp;7
 ---
 
 I know I'm not alone in this.  I absolutely hate the new look of iOS 7. I don't think there has been such a drastic and unnecessary reinventing of a product since New Coke.
