@@ -64,6 +64,8 @@ header h1 {
   color:#494949;
 }
 
+.c { text-align:center; }
+
 .wrapper {
   width:650px;
   margin:0 auto;
