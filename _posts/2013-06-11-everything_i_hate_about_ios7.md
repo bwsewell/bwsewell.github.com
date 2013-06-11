@@ -38,7 +38,7 @@ Jony Ive has done a terrific job over the years with hardware design.  He's resp
 
 **Answering a Phone Call**  
 <img class="c" src="/img/ios7/phone_call.jpg" />
-The new "Swipe to Answer" button is nothing more than a green block.
+The new "Slide to Answer" button is nothing more than a green block.
 
 **Lock Screen**  
 <img class="c" width="320" src="/img/ios7/lock_screen.png" />
