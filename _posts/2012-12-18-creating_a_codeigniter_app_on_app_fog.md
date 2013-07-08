@@ -27,17 +27,17 @@ PHP Fog offered a quick start for Codeigniter applications, however AppFog is cu
 
 Once logged in you will be prompted to create your first app.  Select the **PHP** application.
 
-<a href="/img/appfog01.png"><img src="/img/appfog01.png" /></a>
+<a href="/img/appfog01.png"><img class="fit" src="/img/appfog01.png" /></a>
 
 The next step is to select your prefferred infrastructure.  I will be using **AWS US East** for purposes of this tutorial.
 
 Give your app a name and click **Create App**.
 
-<a href="/img/appfog02.png"><img src="/img/appfog02.png" /></a>
+<a href="/img/appfog02.png"><img class="fit" src="/img/appfog02.png" /></a>
 
 Once your app is built, you will be redirected to your app's dashboard:
 
-<a href="/img/appfog04.png"><img src="/img/appfog04.png" /></a>
+<a href="/img/appfog04.png"><img class="fit" src="/img/appfog04.png" /></a>
 
 ## 2. Install AppFog's Command Line Tool
 
@@ -88,11 +88,11 @@ If everything goes well, you should have successfully pushed a Codeigniter insta
 
 You can check to see if everyone uploaded correctly by clicking on **Visit Live Site** on your app's dashboard.
 
-<a href="/img/appfog04_2.png"><img src="/img/appfog04_2.png" /></a>
+<a href="/img/appfog04_2.png"><img class="fit" src="/img/appfog04_2.png" /></a>
 
 Hopefully you'll see this...
 
-<a href="/img/appfog10.png"><img src="/img/appfog10.png" /></a>
+<a href="/img/appfog10.png"><img class="fit" src="/img/appfog10.png" /></a>
 
 ## 5. Provision your MySQL database
 
@@ -100,7 +100,7 @@ I'm going to use MySQL for this tutorial... if you prefer Mongo, PostreSQL or Re
 
 On your app's dashboard, click on the **Services** tab on the side.  From here, you can create your MySQL database.
 
-<a href="/img/appfog05.png"><img src="/img/appfog05.png" /></a>
+<a href="/img/appfog05.png"><img class="fit" src="/img/appfog05.png" /></a>
 
 Select **MySQL** from the services list and give it a name.  I named mine "ci-test-app-mysql".
 
@@ -179,15 +179,15 @@ Goto your dashboard and click on **Create App** in the top navigation
 
 Select phpMyAdmin from the application list
 
-<a href="/img/appfog11.png"><img src="/img/appfog11.png" /></a>
+<a href="/img/appfog11.png"><img class="fit" src="/img/appfog11.png" /></a>
 
 Same as you did for your PHP app, select your preferred infrastructure... once again I'm using AWS US East.  Then name your phpMyAdmin install... I just named mine "ci-test-app-mysql".
 
-<a href="/img/appfog12.png"><img src="/img/appfog12.png" /></a>
+<a href="/img/appfog12.png"><img class="fit" src="/img/appfog12.png" /></a>
 
 Once your app is created, from your dashboard click on **Services** on the side.  You will see your MySQL database you created earlier.  Click the **Bind** button to bind this service to your phpMyAdmin installation.
 
-<a href="/img/appfog13.png"><img src="/img/appfog13.png" /></a>
+<a href="/img/appfog13.png"><img class="fit" src="/img/appfog13.png" /></a>
 
 You'll also need to add a password to your phpMyAdmin app. Click on the **Env Variables** tab on the left. Create an environment variable called `PMA_PASSWORD` and set it to whatever password you want.
 
@@ -195,13 +195,13 @@ You can set the value to whatever you want as your phpMyAdmin password. Your def
 
 As an example I've set both my username and password to "root".  I do not recommend using these values at all by the way.
 
-<a href="/img/appfog14.png"><img src="/img/appfog14.png" /></a>
+<a href="/img/appfog14.png"><img class="fit" src="/img/appfog14.png" /></a>
 
 So now you will be able to login to your phpMyAdmin installation to manage your database by clicking on the **Visit Live Site** link on your phpMyAdmin app dashboard.
 
-<a href="/img/appfog15.png"><img src="/img/appfog15.png" /></a>
+<a href="/img/appfog15.png"><img class="fit" src="/img/appfog15.png" /></a>
 
-<a href="/img/appfog16.png"><img src="/img/appfog16.png" /></a>
+<a href="/img/appfog16.png"><img class="fit" src="/img/appfog16.png" /></a>
 
 ## You're all set!
 

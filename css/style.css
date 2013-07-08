@@ -306,6 +306,10 @@ footer {
   margin:0 auto;
 }
 
+#post img.fit {
+  width:100%;
+}
+
 #post h4 {
   font-size:24px;
   font-weight:normal;
