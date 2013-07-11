@@ -7,7 +7,7 @@ image:
   alt:
   attribution:
 layout: post
-published: false
+published: true
 tags:
 -
 title: Creating a Laravel App on AppFog
