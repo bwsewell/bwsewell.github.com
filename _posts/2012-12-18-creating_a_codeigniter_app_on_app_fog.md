@@ -171,6 +171,7 @@ $autoload['libraries'] = array('database');
 
 Go back to your app dashboard and visit your live site.  If you still see the same default CI page, then you've successfully connected your MySQL database!
 
+<a name="phpmyadmin"></a>
 ## 7. Setup phpMyAdmin
 
 AppFog treats phpMyAdmin as it's own app, similar to how it treats your Codeigniter Install.  Aside from tunnelling into your MySQL database, phpMyAdmin will be your best way to interface with your database for now.
